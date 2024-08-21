@@ -26,13 +26,13 @@ export const Project = () => {
       title: "Real Estate Web application (Peeman)",
       description: "React.js, Firebase, tailwindcss",
       imgUrl: projImg2,
-      url: "https://peeman-realestate.com",  
+      url: "https://peeman-estate.com",  
     },
     {
       title: "Cryptocurrency Dashboard",
       description: "React, CoinGecko API",
       imgUrl: projImg1,
-      url: "https://crypto-dashboard-example.com",  
+      url: "https://Nykto-tech.com",  
     },
     {
       title: "Fitness Tracking App",
@@ -44,7 +44,7 @@ export const Project = () => {
       title: "Travel Booking Website",
       description: "Next.js, Strapi, Mapbox",
       imgUrl: projImg3,
-      url: "https://travel-booking-example.com",  // Add the URL here
+      url: "https://travel-izz.com",
     },
   ];
 
