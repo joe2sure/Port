@@ -11,34 +11,40 @@ import "../styles/Project.css";
 export const Project = () => {
   const projects = [
     {
-      title: "E-Commerce Web Application (amazon clone)",
+      title: "Spacinfo-tech service platform",
       description: "React.js, Node.js, MongoDB",
       imgUrl: projImg1,
+      url: "https://www.spacinfotech.co.uk/",  
+    },
+    {
+      title: "Seek-saviour church platform (twitter clone)",
+      description: "React Native, GraphQL, Apollo",
+      imgUrl: projImg3,
+      url: "https://seek-saviour-outreach.co.uk",  
     },
     {
       title: "Real Estate Web application (Peeman)",
       description: "React.js, Firebase, tailwindcss",
       imgUrl: projImg2,
-    },
-    {
-      title: "Social Media Platform (twitter clone)",
-      description: "React Native, GraphQL, Apollo",
-      imgUrl: projImg3,
+      url: "https://peeman-realestate.com",  
     },
     {
       title: "Cryptocurrency Dashboard",
       description: "React, CoinGecko API",
       imgUrl: projImg1,
+      url: "https://crypto-dashboard-example.com",  
     },
     {
       title: "Fitness Tracking App",
       description: "React Native, Firebase, HealthKit",
       imgUrl: projImg2,
+      url: "https://fitness-tracker-app.com",  
     },
     {
       title: "Travel Booking Website",
       description: "Next.js, Strapi, Mapbox",
       imgUrl: projImg3,
+      url: "https://travel-booking-example.com",  // Add the URL here
     },
   ];
 
